@@ -1,2 +1,2 @@
 # goassert
-The most simple assertion module in Go
+Most simple Golang Assertion module
