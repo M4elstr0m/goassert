@@ -1,4 +1,4 @@
-package goassert
+package main
 
 /*
 If the condition is not true, then panic with the given message. You can use fmt.Sprintf() to create more complex messages
